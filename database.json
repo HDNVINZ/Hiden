@@ -1,0 +1,9 @@
+{
+  "users": {},
+  "roles": {
+    "buyer": [],
+    "staff": [],
+    "reseller": [],
+    "partner": []
+  }
+}
