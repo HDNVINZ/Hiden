@@ -1,9 +1,12 @@
 {
-  "users": {},
-  "roles": {
-    "buyer": [],
-    "staff": [],
-    "reseller": [],
-    "partner": []
-  }
+  "users": {
+    "VinzNotDev": {
+      "password": "kontol123",
+      "expiredDate": "9999-12-31",
+      "role": "owner",
+      "lastSend": 1753500571927
+    }
+  },
+  "activeKeys": {},
+  "chat": []
 }
